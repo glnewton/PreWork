@@ -1,0 +1,30 @@
+h1, h2, h3, p, a {
+    color:rgb(24, 10, 37)
+}
+
+body, main {
+    background-color: rgb(107, 10, 197);
+}
+
+#moreAboutGary p {
+    font-size: 9px;
+    font-weight: bold;
+}
+
+header {
+    color:rgb(24, 10, 37);
+    position: relative;
+}
+
+main {
+    position: relative;
+}
+
+#picture {
+    max-width: 50%;
+    max-height: 50%;
+}
+
+img {
+    size: auto;
+}
